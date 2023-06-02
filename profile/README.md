@@ -16,7 +16,7 @@ After logging into your GitHub account (with two-factor authentication enabled),
 
 * [https://github.com/orgs/upenn/sso/sign_up](https://github.com/orgs/upenn/sso/sign_up)
 
-Note that you can associate your Penn WebLogin SSO identity with any of your GitHub accounts, but only one can be associated at a time. You will also be required to enable Two-factor authentication on your GitHub account, if you haven’t done so already.
+Note that you can associate your Penn WebLogin SSO identity with any of your GitHub accounts, but only one can be associated at a time. You will also be required to enable [Two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/accessing-github-using-two-factor-authentication) on your GitHub account, if you haven't done so already.
 
 **WARNING:** GitHub is not suitable for storing sensitive information, including:
 
@@ -29,10 +29,10 @@ Note that you can associate your Penn WebLogin SSO identity with any of your Git
 Benefits:
 
 * Protected by Penn WebLogin SSO
-* GitHub Teams for cascading access permissions
+* [GitHub Teams](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/about-teams) for cascading access permissions
 * Standardized infrastructure available to University
 * Security features enforced across all repositories in the enterprise
-* Security Vulnerability Alerts for vulnerable repos
-* Enterprise support for GitHub Classroom and integration with Canvas
+* [Security Vulnerability Alerts](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/about-alerts-for-vulnerable-dependencies) for vulnerable repos
+* Enterprise support for [GitHub Classroom](https://docs.github.com/en/free-pro-team@latest/education/manage-coursework-with-github-classroom/basics-of-setting-up-github-classroom) and integration with Canvas
 * External collaboration with nonmembers is supported
 * Continued access to code repostories is resilient to developer turnover
