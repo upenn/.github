@@ -36,3 +36,10 @@ Benefits:
 * Enterprise support for [GitHub Classroom](https://docs.github.com/en/free-pro-team@latest/education/manage-coursework-with-github-classroom/basics-of-setting-up-github-classroom) and integration with Canvas
 * External collaboration with nonmembers is supported
 * Continued access to code repostories is resilient to developer turnover
+
+Considerations:
+
+* Not appropriate for storing sensitive data (see above)
+* [File Size Limits](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits)
+* [Repository Size Limits](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#repository-size-limits)
+* [Migrating existing repositories into GitHub](https://docs.github.com/en/migrations)
