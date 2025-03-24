@@ -52,7 +52,7 @@ GitHub Copilot is available for $19 per user per month [at the Business level](h
 * **Data is excluded from training by default.**
 * Models available: Claude Sonnet 3.7, Google Gemini 2.0, and OpenAI o3
 * Organizations choose whether to enable EDITOR PREVIEW FEATURES.
-* User feedback collection it disabled across the Enterprise.
+* User feedback collection is disabled across the Enterprise.
 * Mobile and Copilot Extensions are disabled across the Enterprise, to ensure data remains excluded from any training by default.
 * Copilot is enabled on GitHub.com, for features such as automated Copilot for Pull Requests, Copilot Chat in GitHub.com, and knowledge base search.
 * Copilot is enabled on both the CLI and IDE.
