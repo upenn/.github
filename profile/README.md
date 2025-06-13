@@ -47,7 +47,9 @@ Considerations:
 
 ## GitHub Copilot
 
-GitHub Copilot is available for $19 per user per month [at the Business level](https://github.com/features/copilot/plans). As of this writing, the GitHub Campus Management Team has set up Copilot as follows:
+GitHub Copilot is available for $19 per user per month [at the Business level](https://github.com/features/copilot/plans). At the business level, users are each given **300 premium request credits** per month [to use for queries](https://docs.github.com/en/copilot/managing-copilot/monitoring-usage-and-entitlements/about-premium-requests); using the default model, currently GPT 4.1, is free.
+
+As of this writing, the GitHub Campus Management Team has set up Copilot as follows:
 
 * **Data is excluded from training by default.**
 * Models available: Claude Sonnet 3.7, Google Gemini 2.0, and OpenAI o3
@@ -58,4 +60,3 @@ GitHub Copilot is available for $19 per user per month [at the Business level](h
 * Copilot is enabled on both the CLI and IDE.
 * Copilot can search the web for additional context.
 * Copilot Metrics API access is enabled for administrators at the organization and enterprise level.
-This feels like the right balance to me, but I'm very open to any concerns or modifications y'all think might make sense
